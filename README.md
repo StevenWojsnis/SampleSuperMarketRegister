@@ -1,4 +1,5 @@
 # SampleSuperMarketRegister
+School Project
 
 The program loads data from a database array containing information about grocery items.
 That information is then loaded into several objects. Each item receives its own object,
